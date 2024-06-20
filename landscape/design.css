@@ -11,7 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url(sunrise1.jpg);
+    background: url(landscape/sunrise1.jpg);
     background-size: cover;
     background-position: center;
 }
